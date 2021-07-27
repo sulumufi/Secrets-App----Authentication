@@ -1,0 +1,29 @@
+[33mcommit 394ec7b547d4eae7d1288d792d48e5f1fb57458d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: sulu mufi <suluksm@gmail.com>
+Date:   Mon Jul 26 21:15:48 2021 +0530
+
+    Level 4 - Hashingwith Salting rounds.
+
+[33mcommit de2443114ffbeda4872a182f67655c106bf8d672[m
+Author: sulu mufi <suluksm@gmail.com>
+Date:   Mon Jul 26 15:48:29 2021 +0530
+
+    Level 3 - Hashing md5
+
+[33mcommit bbb139325a71ee837f164614856ec27b584709e5[m
+Author: sulu mufi <suluksm@gmail.com>
+Date:   Mon Jul 26 12:00:23 2021 +0530
+
+    Level 2 - Encryption + .env file
+
+[33mcommit 301103b1e93a2ad9b8ea25a90e18d84597e40313[m
+Author: sulu mufi <suluksm@gmail.com>
+Date:   Mon Jul 26 11:06:07 2021 +0530
+
+    Level 2 - Encryption
+
+[33mcommit 1ed49cc1eef73988fd5f727a8f38991ad1de3d76[m
+Author: sulu mufi <suluksm@gmail.com>
+Date:   Mon Jul 26 09:36:12 2021 +0530
+
+    Level 1 - Authentication
